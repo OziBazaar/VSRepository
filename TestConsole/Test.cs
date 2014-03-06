@@ -8,5 +8,10 @@ namespace TestConsole
 {
     class Test
     {
+        public Test()
+        {
+            int a = 1;
+            a = a + 1;
+        }
     }
 }

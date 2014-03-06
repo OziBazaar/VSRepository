@@ -10,7 +10,9 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
+            int a;
             Console.WriteLine("test");
+            
         }
     }
 }

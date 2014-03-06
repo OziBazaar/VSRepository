@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestConsole
 {
-    class Program
+    class Test
     {
-        static void Main(string[] args)
-        {
-            int a;
-            Console.WriteLine("test");
-            string b;
-        }
     }
 }

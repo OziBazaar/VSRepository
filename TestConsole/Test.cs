@@ -19,4 +19,11 @@ namespace TestConsole
             Id=a;
         }
     }
+    public class Circle
+    {
+        public int Radious { get; set; }
+        public int Xc { get; set; }
+        public int Yc { get; set; }
+
+    }
 }
